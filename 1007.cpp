@@ -1,4 +1,5 @@
 #include <stdio.h>
+//0102
 
 int main (){
 	int a,b,c,d, x=0;
